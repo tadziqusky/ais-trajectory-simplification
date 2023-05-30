@@ -1,0 +1,5 @@
+pandas==2.0.1
+pyproj==3.5.0
+numpy==1.24.2
+folium==0.14.0
+ipykernel==6.23.1
